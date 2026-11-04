@@ -11,8 +11,8 @@ Cinematic Dark Theme (Aurora-Cyan -> Indigo auf #050810), ersetzt das alte
 |---|---|
 | `web-assets/aurora_noir.css` | Quelldatei des Themes (SSOT zum Editieren) |
 | `web-assets/custom_bg.webp` | Hintergrundbild 1920x1080, ~110 KB |
-| `library/branding.xml` | Aktive Konfiguration (CSS XML-escaped eingebettet) |
-| `library/branding.xml.bak-20260816` | Rollback des alten Themes |
+| `branding.xml` | Aktive Konfiguration (CSS XML-escaped eingebettet) — im Repo-Root; auf dem VPS unter `library/branding.xml` |
+| `library/branding.xml.bak-20260816` | Rollback des alten Themes (VPS-Pfad, nicht im Repo) |
 
 ## Deployment-Pfad
 
